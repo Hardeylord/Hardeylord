@@ -11,13 +11,13 @@ On the backend, I work with Java (Spring Boot – fundamentals) and API-driven s
 
 Always curious, always learning — I enjoy exploring new technologies and breaking down real-world systems to understand how they scale. 🚀
 
-<a href="https://github.com/AdedipupoAdeagbo">
+<!-- <a href="https://github.com/AdedipupoAdeagbo">
   <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" 
        alt="side gif" 
        align="right" 
        width="150" 
        height="auto"/>
-</a>
+</a> -->
 
 </br>
   👨🏻‍💻 Languages and Tools <br />
